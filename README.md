@@ -1,11 +1,11 @@
 ## Oi! Eu sou a **Duda**! ✨
 
-Sou formanda em **Análise e Desenvolvimento de Sistemas**. Atualmente, trabalho com **Visão Computacional** e estou me aprofundando no **Front End** e **Ux Design**. 
-Sou apaixonada por criar interfaces intuitivas e funcionais, que proporcionem a melhor experiência para os usuários! 💻
+💻 Sou formanda em **Análise e Desenvolvimento de Sistemas**. Atualmente, trabalho com **Visão Computacional** e estou me aprofundando no **Front End** e **Ux Design**. 
+Sou apaixonada por criar interfaces intuitivas e funcionais, que proporcionem a melhor experiência para os usuários! 
 
 ---
 
-🚀 Tecnologias e Ferramentas  
+🚀 **Tecnologias e Ferramentas**  
 <div style="display: flex; align-items: center;">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" style="margin-right: 12px;" />  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" style="margin-right: 12px;" />  
