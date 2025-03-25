@@ -1,28 +1,18 @@
+## Oi! Eu sou a **Duda**! ✨
 
-Oi! Eu sou a **Duda** ✨, sou formanda em **Análise e Desenvolvimento de Sistemas**. Atualmente, trabalho com **Visão Computacional** e estou me aprofundando no **Front End** e **Ux Design**. 
-
+Sou formanda em **Análise e Desenvolvimento de Sistemas**. Atualmente, trabalho com **Visão Computacional** e estou me aprofundando no **Front End** e **Ux Design**. 
 Sou apaixonada por criar interfaces intuitivas e funcionais, que proporcionem a melhor experiência para os usuários!💻
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas  
 
-<div>  
-    <div style="display: inline-block; margin-right: 10px;">  
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" />  
-    </div>  
-    <div style="display: inline-block; margin-right: 10px;">  
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" />  
-    </div>  
-    <div style="display: inline-block; margin-right: 10px;">  
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" />  
-    </div>  
-    <div style="display: inline-block; margin-right: 10px;">  
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" />  
-    </div>  
-    <div style="display: inline-block;">  
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="25" />  
-    </div>  
+<div style="display: flex; align-items: center;">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" style="margin-right: 10px;" />  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" style="margin-right: 10px;" />  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" style="margin-right: 10px;" />  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" style="margin-right: 10px;" />  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="25" />  
 </div>  
 
 ---
