@@ -15,8 +15,9 @@ Sou apaixonada por criar interfaces intuitivas e funcionais, que proporcionem a 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DudaOlivera&show_icons=true&theme=blue)  
 
 ---
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)  
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)  
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
-![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg)  
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="25" />  
