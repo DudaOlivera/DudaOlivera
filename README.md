@@ -6,16 +6,15 @@ Sou apaixonada por criar interfaces intuitivas e funcionais, que proporcionem a 
 ---
 
 ## 🚀 Tecnologias e Ferramentas  
-
 <div style="display: flex; align-items: center;">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" style="margin-right: 10px;" />  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" style="margin-right: 10px;" />  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" style="margin-right: 10px;" />  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" style="margin-right: 10px;" />  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="25" />  
-</div>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26" style="margin-right: 12px;" />  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="26" style="margin-right: 12px;" />  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="26" style="margin-right: 12px;" />  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26" style="margin-right: 12px;" />  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="26" />  
+</div>
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DudaOlivera&show_icons=true&theme=blue)  
+![Maria Eduarda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=prussian&card_width=250)  
 
