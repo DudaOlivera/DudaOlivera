@@ -17,5 +17,5 @@ Sou apaixonada por criar interfaces intuitivas e funcionais, que proporcionem a 
 
 ---
 
-![Maria Eduarda's GitHub Stats](https://github-readme-stats.vercel.app/api username=DudaOlivera&show_icons=true&theme=prussian&card_width=100px) 
+[![Maria Eduarda's GitHub Stats](https://github-readme-stats.vercel.app/api username=DudaOlivera&show_icons=true&theme=prussian&card_width=100px) ](https://github-readme-stats.vercel.app/api?username=DudaOlivera&show_icons=true&theme=prussian  )
 
