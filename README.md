@@ -11,9 +11,11 @@ Sou apaixonada por criar interfaces intuitivas e funcionais, que proporcionem a 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" style="margin-right: 12px;" />  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" style="margin-right: 12px;" />  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" style="margin-right: 12px;" />  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35" />  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="35" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="35" style="margin-right: 12px;" />
 </div>
 
 ---
+
 ![Maria Eduarda's GitHub Stats](https://github-readme-stats.vercel.app/api username=DudaOlivera&show_icons=true&theme=prussian&card_width=100px) 
 
