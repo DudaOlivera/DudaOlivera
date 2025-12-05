@@ -21,9 +21,9 @@ Sou apaixonada por construir a ponte entre o *backend* robusto e o usuário fina
 
 Apesar de amar o *backend* e os dados, meu coração também bate forte por **Front-end**! Estou sempre estudando e me aprofundando para criar interfaces que sejam um **verdadeiro encanto** para o usuário:
 
-* 🚀 **HTML, CSS & JavaScript:** A base de tudo! Foco na construção da estrutura (**HTML**), estilização charmosa (**CSS**) e na interatividade mágica (**JavaScript**).
-* 🎨 **UI/UX e Figma:** Aplicando princípios de design e prototipagem para criar experiências de usuário **impecáveis e apaixonantes**.
-* 💡 **Performance Web:** Entendendo como otimizar o carregamento e a responsividade de aplicações web para que tudo flua **suavemente como mágica**.
+* **HTML, CSS & JavaScript:** A base de tudo! Foco na construção da estrutura (**HTML**), estilização charmosa (**CSS**) e na interatividade mágica (**JavaScript**).
+* **UI/UX e Figma:** Aplicando princípios de design e prototipagem para criar experiências de usuário **impecáveis e apaixonantes**.
+* **Performance Web:** Entendendo como otimizar o carregamento e a responsividade de aplicações web para que tudo flua **suavemente como mágica**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Front_End_Lover-FF69B4?style=for-the-badge&logo=react&logoColor=white&color=8A2BE2" alt="Front End Lover Badge" />
