@@ -5,8 +5,7 @@
 ### ✨ Sobre Mim
 
 Sou formada em **Análise e Desenvolvimento de Sistemas**. Atualmente, dedico-me ao desenvolvimento de soluções, com foco em **Inteligência Artificial**, **Visão Computacional** e utilizando **Python** para automatização de tarefas.
-
-Minha missão é construir a ponte entre a complexidade dos dados e a usabilidade. Mesmo focada em *backend* e *data*, mantenho uma paixão intensa por **Front-end** e interfaces intuitivas, sempre buscando aplicar a lógica de código limpo em todas as minhas áreas de atuação.
+Sou apaixonada por construir a ponte entre o *backend* robusto e o usuário final. Mesmo com foco em **Inteligência Artificial** e *data*, amo **Front-end** e interfaces intuitivas, sempre priorizando a elegância do código limpo em tudo que faço.
 
 ## 🛠️ Stack de Tecnologias 
 
