@@ -1,23 +1,19 @@
 # Duda Oliveira 💜
 
-## 💻 Analista e Desenvolvedora de Sistemas
-
----
+## Analista e Desenvolvedora de Sistemas
 
 ### ✨ Sobre Mim
 
 Sou formada em **Análise e Desenvolvimento de Sistemas**. Atualmente, dedico-me ao desenvolvimento de soluções, com foco em **Inteligência Artificial**, **Visão Computacional** e utilizando **Python** para automatização de tarefas.
 Sou apaixonada por construir a ponte entre o *backend* robusto e o usuário final. Mesmo com foco em **Inteligência Artificial** e *data*, amo **Front-end** e interfaces intuitivas, sempre priorizando a elegância do **código limpo** em tudo que faço.
 
----
 
 ## Stack de Tecnologias
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 
----
 
-## Interesses e Estudos de Front-end
+## 💻 Interesses e Estudos de Front-end
 
 Apesar de amar o *backend* e os dados, meu coração também bate forte por **Front-end**! Estou sempre estudando e me aprofundando para criar interfaces que sejam um **verdadeiro encanto** para o usuário:
 
