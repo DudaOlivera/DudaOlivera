@@ -1,5 +1,4 @@
 # Duda Oliveira 💜
-
 ## Analista e Desenvolvedora de Sistemas
 
 ### ✨ Sobre Mim
