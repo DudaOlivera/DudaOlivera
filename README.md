@@ -1,17 +1,25 @@
-# Duda Oliveira 💜
-## Analista e Desenvolvedora de Sistemas
+<div align="center">
 
-### ✨ Sobre Mim
+# Duda Oliveira 💜 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Python+Developer+•+IA+Generativa+•+LLMs+•+Agentes+de+IA" /></div>          
+## ✨ Sobre Mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atuo com foco em Python, Inteligência Artificial, IA Generativa, LLMs, Agentes de IA, automações inteligentes e engenharia de prompts. Tenho grande interesse em tecnologia, inovação e no desenvolvimento de soluções eficientes, escaláveis e bem estruturadas.
+Sou formada em Análise e Desenvolvimento de Sistemas e atuo com foco em **Python**, **Inteligência Artificial**, **IA Generativa**, **LLMs**, **Agentes de IA**, automações inteligentes e engenharia de prompts.
 
-Sou apaixonada por transformar ideias em experiências intuitivas e funcionais. Mesmo com meu foco em IA e backend, continuo amando Front-end e a criação de interfaces modernas, elegantes e com atenção aos detalhes.
+Tenho grande interesse em tecnologia, inovação e no desenvolvimento de soluções eficientes, escaláveis e bem estruturadas.
 
+Mesmo com meu foco em IA e backend, continuo apaixonada por **Front-end** e pela criação de interfaces modernas, intuitivas e elegantes.
 
-### Stack de Tecnologias
+## 💻 Atualmente estudando
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+- IA Generativa  
+- Agentes Autônomos  
+- LangChain & CrewAI  
+- Engenharia de Prompts  
+- Arquiteturas com LLMs  
+- Front-end moderno e UI/UX  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Back_IA-6A5ACD?style=for-the-badge&logo=python&logoColor=white&color=4B0082" alt="Back IA Badge" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/BACK_IA-6A5ACD?style=for-the-badge&logo=python&logoColor=white&color=4B0082" />
+
+</div>
