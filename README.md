@@ -3,8 +3,9 @@
 
 ### ✨ Sobre Mim
 
-Sou formada em **Análise e Desenvolvimento de Sistemas**. Atualmente, dedico-me ao desenvolvimento de soluções, com foco em **Inteligência Artificial**, **Visão Computacional** e utilizando **Python** para automatização de tarefas.
-Sou apaixonada por construir a ponte entre o *backend* robusto e o usuário final. Mesmo com foco em **Inteligência Artificial** e *data*, amo **Front-end** e interfaces intuitivas, sempre priorizando a elegância do **código limpo** em tudo que faço.
+Sou formada em Análise e Desenvolvimento de Sistemas e atuo com foco em Python, Inteligência Artificial, IA Generativa, LLMs, Agentes de IA, automações inteligentes e engenharia de prompts. Tenho grande interesse em tecnologia, inovação e no desenvolvimento de soluções eficientes, escaláveis e bem estruturadas.
+
+Sou apaixonada por transformar ideias em experiências intuitivas e funcionais. Mesmo com meu foco em IA e backend, continuo amando Front-end e a criação de interfaces modernas, elegantes e com atenção aos detalhes.
 
 
 ### Stack de Tecnologias
