@@ -22,5 +22,5 @@ Apesar de amar o *backend* e os dados, meu coração também bate forte por **Fr
 * **Performance Web:** Entendendo como otimizar o carregamento e a responsividade de aplicações web para que tudo flua **suavemente como mágica**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front_End_Lover-FF69B4?style=for-the-badge&logo=react&logoColor=white&color=8A2BE2" alt="Front End Lover Badge" />
+  <img src="https://img.shields.io/badge/Back_IA-6A5ACD?style=for-the-badge&logo=python&logoColor=white&color=4B0082" alt="Back IA Badge" />
 </p>
